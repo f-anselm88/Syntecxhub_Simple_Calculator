@@ -1,1 +1,1 @@
-# Syntecxhub_Simple_Calculator
+# Syntecxhub_Simple_Calculator App
